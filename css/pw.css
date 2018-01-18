@@ -1,0 +1,57 @@
+body{
+background: #a90329; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, #a90329 0%, #8f0222 31%, #8f0222 49%, #6d0019 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, #a90329 0%,#8f0222 31%,#8f0222 49%,#6d0019 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, #a90329 0%,#8f0222 31%,#8f0222 49%,#6d0019 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 );
+height:600px;
+}
+.container{
+	width:533px;
+	margin: 0 auto;
+	margin-top: 100px;
+	font-size: 3em;
+}
+.output{
+	margin-bottom: 10px;
+	width: 100%;
+	
+}
+input{
+	border-radius: 8px;
+}
+
+.mybtn{
+	padding: 20px 20px;
+	font-size: 30px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	border-radius: 8px;
+	
+
+}
+.pass{
+	width:300px;
+	font-size: 30px;
+	color: #fff;
+	margin-left: 0;
+	padding: 0px;
+	background-color: #f63;
+	
+}
+.col-xs-10{
+	border-radius: 8px;
+	color: #fff;
+	background: #f63;
+}
+.col-xs-2{
+	margin-top: -2px;
+	padding-left:  8px;
+}
+.in{
+	width: 73px;
+	padding-left: 5px;
+	border-radius: 10px;
+	color: #f63;
+	
+}
